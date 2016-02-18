@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("速度一般啊")
         print("用命令行提交喽")
         print("又在网吧敲代码")
+        print("看一下fetch")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
